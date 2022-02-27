@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act for raising seven-score thousand pounds, for the compleat disbanding of the whole Army, and paying off some part of the Navy</title>
+            <title>Public General Acts. 1660. 12 Car.II.c.20.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82403</idno>
+            <idno type="STC">Wing E1056A</idno>
+            <idno type="STC">ESTC R213295</idno>
+            <idno type="EEBO-CITATION">99897921</idno>
+            <idno type="PROQUEST">99897921</idno>
+            <idno type="VID">135509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2555:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act for raising seven-score thousand pounds, for the compleat disbanding of the whole Army, and paying off some part of the Navy</title>
+                  <title>Public General Acts. 1660. 12 Car.II.c.20.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill, printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title, A2r; at head: Anno XII. Caroli II. Regis.</note>
+                  <note>Imprint from general title page, which reads "Anno regni Caroli IJ. Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, duodecimo. At the Parliament begun at Westminster the five and twentieth day of April, an. Dom. 1660. ..".</note>
+                  <note>Signatures: A-C² .</note>
+                  <note>Last word of first line of text: "in"; first word of line below initial: "purposes"; last word of last full line on page: "pounds".</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Demobilization --  Law and legislation --  Early works to 1800.</term>
+               <term>England and Wales. --  Royal Navy --  Pay, allowances, etc. --  Law and legislation --  Early works to 1800.</term>
+               <term>Taxation --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135509:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 85 -->
+            <p>Anno Regni CAROLI IJ.
+REGIS <hi>Angliae, Scotiae, Franciae,</hi> &amp; <hi>Hiberniae,</hi> DUODECIMO.</p>
+            <p>At the Parliament begun at <hi>Westminſter</hi> the Five and twentieth day of <hi>April, An. Dom.</hi> 1660.</p>
+            <p>In the Twelfth Year of the Reign of Our moſt Gracious Soveraign Lord CHARLES, By the Grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> King, Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by JOHN BILL, Printer to the Kings moſt Excellent Majeſty, 1660.</p>
+            <p>CUM PRIVILEGIO.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:135509:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb n="1" facs="tcp:135509:2"/>
+            <!-- PDF PAGE 86 -->
+            <opener>
+               <dateline>
+                  <date>Anno XII. CAROLI II. Regis.</date>
+               </dateline>
+            </opener>
+            <head>An Act for raiſing Seven<g ref="char:EOLhyphen"/>ſcore thouſand pounds, for the compleat Disbanding of the whole Army, and paying off ſome part of the Navy.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Commons aſſembled in Parliament do give and grant unto Your moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, the Sum of Sevenſcore thouſand pounds to be raiſed and levied in manner follow<g ref="char:EOLhyphen"/>ing, and for the uſes and purpoſes herein after declared: And do there<g ref="char:EOLhyphen"/>fore humbly pray Your Majeſty, That it may be Enacted, and be it Enacted by the Kings moſt Excellent Majeſty, by and with the ad<g ref="char:EOLhyphen"/>vice and conſent of the Lords and Commons in this preſent Parliament aſſembled, That the ſum of Threéſcore and ten thouſand pounds
+<pb n="2" facs="tcp:135509:3"/>
+               <!-- PDF PAGE 87 -->by the Moneth, for Two Moneths, beginning from the Firſt day of <hi>November</hi> One thouſand ſix hundred and ſixty, ſhall be aſſeſſed, taxed, collected, levied, and paid in the ſeveral Coun<g ref="char:EOLhyphen"/>ties, Cities, Boroughs, Towns, and places within <hi>England</hi> and <hi>Wales,</hi> and the Town of <hi>Berwick upon Twede,</hi> according to ſuch Rates, Rules and Proportions, and by the ſame Com<g ref="char:EOLhyphen"/>miſsioners (excepting ſuch as ſtand diſabled by a certain Act paſſed this preſent Parlia<g ref="char:EOLhyphen"/>ment, Intituled, <hi>An Act of Indempnity, Free Pardon and Oblivion</hi>) and with like Powers and Authorities, as in and by a certain Ordi<g ref="char:EOLhyphen"/>nance, Intituled, <hi>An Ordinance of the Lords and Commons for an Aſſeſſment of Seventy thouſand pounds by the Moneth upon England for Three Moneths, for the ſupply of the preſent occaſions of the Kings Majeſty, and for and towards the pay<g ref="char:EOLhyphen"/>ment and ſatisfaction of the Armies and Navies, con<g ref="char:EOLhyphen"/>tinued for the defence of this Kingdom; and for other the neceſſary and urgent occaſions thereof.</hi> Together with a certain Act paſſed this Par<g ref="char:EOLhyphen"/>liament, Intituled, <hi>An Act for putting in exe<g ref="char:EOLhyphen"/>cution an Ordinance mentioned in the ſaid Act,</hi> are expreſſed, declared, and appointed; which ſaid Commiſsioners ſhall meét on or before the Sixth day of <hi>November</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred and ſixty, and are hereby enabled to uſe and execute all and every the like Rates, Rules, Proportions, Powers and Authorities, as in and by the ſaid Ordinance and Act are men<g ref="char:EOLhyphen"/>tioned and expreſſed, as fully and amply as if the ſame had beén particularly inſerted in this preſent Act.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That all and every the Sums to be
+<pb n="3" facs="tcp:135509:3"/>
+               <!-- PDF PAGE 87 -->collected and raiſed by vertue of this preſent Act, ſhall be paid at the <hi>Guildhal</hi> of the City of <hi>London,</hi> unto Sir <hi>Richard Brown,</hi> Sir <hi>John Langham,</hi> Sir <hi>William Wheeler,</hi> Sir <hi>William Vincent, Thomas Rich,</hi> and the Chamberlain of the City of <hi>London</hi> for the time being; who are appointed Treaſurers of the money to be raiſed by vertue of another Act paſſed this preſent Parliament, Intituled, <hi>An Act for the ſpeedy proviſion of Money for disbanding and pay<g ref="char:EOLhyphen"/>ing off the Forces of this Kingdom both by Land and Sea.</hi> And the Acquittance of them, or any threé of them, ſhall be a ſufficient diſcharge for ſo much money as ſhall be received by ver<g ref="char:EOLhyphen"/>tue of this Act, to any perſon or perſons who ſhall pay in the ſame.</p>
+            <p>And be it further Enacted, That the Trea<g ref="char:EOLhyphen"/>ſurers by this Act appointed ſhall receive for them; and thoſe to be employed under them in this ſervice, one penny in the pound, in ſuch manner as they ought to receive by the Act laſt beforementioned.</p>
+            <p>And be it further Enacted, That all and every the Sums of Money, which by vertue of this preſent Act ſhall be paid to, or received by the Treaſurers aforeſaid, ſhall from time to time be iſſued out according to ſuch War<g ref="char:EOLhyphen"/>rants and Directions onely, as they or any threé of them ſhall receive from the Commiſ<g ref="char:EOLhyphen"/>ſioners named in one Act of this preſent Par<g ref="char:EOLhyphen"/>liament, Entituled, <hi>An Act for the ſpeedy diſ<g ref="char:EOLhyphen"/>banding of the Army and Garriſons of this King<g ref="char:EOLhyphen"/>dom:</hi> Who are hereby required and enjoyned at their perils to take care and provide, that the Moneys ſo as aforeſaid to be iſſued out, be applied onely to the uſes, intents, and pur<g ref="char:EOLhyphen"/>poſes
+<pb n="4" facs="tcp:135509:4"/>
+               <!-- PDF PAGE 88 -->hereafter following, and to no other uſe, intent, or purpoſe whatſoever; that is to ſay, Principally, and in the firſt place, for and to<g ref="char:EOLhyphen"/>wards the total disbanding of the preſent Ar<g ref="char:EOLhyphen"/>my, until that work be fully perfected and compleated according to ſuch Rules and In<g ref="char:EOLhyphen"/>ſtructions as touching the disbanding of the Army in the ſaid Act laſt mentioned are con<g ref="char:EOLhyphen"/>tained: And after the Army ſhall be wholly disbanded, then the reſidue of the Moneys to be raiſed by vertue of this preſent Act, ſhall be imployed for and towards the paying off ſuch part of the Fleét and Navy that ſhall be re<g ref="char:EOLhyphen"/>turned into Harbor, on or before the Eighth day of <hi>September</hi> One thouſand ſix hundred and ſixty, according to ſuch Rules, Orders, and Inſtructions, as touching the payment off of the Navy, are in the ſaid laſt mentioned Act contained, and not otherwiſe.</p>
+            <p>And be it further Enacted, That an Ac<g ref="char:EOLhyphen"/>compt of all the Moneys by vertue of this Act to be received, ſhall be given by the ſaid Trea<g ref="char:EOLhyphen"/>ſurers to this or any other ſucceéding Parlia<g ref="char:EOLhyphen"/>ment, which ſhall require the ſame, or to ſuch perſon or perſons, as by this or any other ſuc<g ref="char:EOLhyphen"/>ceéding Parliament ſhall be thereunto ap<g ref="char:EOLhyphen"/>pointed.</p>
+            <p>And be it further Enacted and Declared, That if any perſon or perſons, ſhall lend unto the Treaſurers aforeſaid, any ſum or ſums of Money, to and for the uſes and purpoſes in this preſent Act mentioned, ſuch perſon ſhall do very good and acceptable ſervice to the King and Kingdom; and ſhall likewiſe be repaid the ſame, with conſideration for the forbear<g ref="char:EOLhyphen"/>ance thereof, after the rate of Six pounds <hi>per
+<pb n="5" facs="tcp:135509:4"/>
+                  <!-- PDF PAGE 88 -->Cent.</hi> out of the firſt Moneys which after ſuch Loan ſhall come in upon this preſent Act. And the ſaid Treaſurers or any threé of them, ſhall be and are hereby enabled to repay the ſaid Moneys accordingly to the party ſo lending the ſame, whoſe Acquittances ſhall be unto them a ſufficient Diſcharge, and the Money ſo ad<g ref="char:EOLhyphen"/>vanced by way of Loan, ſhall be employed to the uſes in this Act mentioned, and not other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>And be it further Enacted, That this whole and entire Sum of Sevenſcore thouſand pounds, intended by this Act to be raiſed, ſhall be fully paid in, and compleated upon or before the Twenty fifth day of <hi>December</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred and ſixty: And that the Com<g ref="char:EOLhyphen"/>miſſioners for the ſaid Monethly Aſſeſſment, or any two or more of them in their reſpective Counties, Cities, Boroughs, Towns and places within <hi>England</hi> and <hi>Wales,</hi> and the Town of <hi>Berwick upon Twede,</hi> ſhall Sign and Seal a "duplicate" EXTENT="1 page" of the ſaid Aſſeſſments, and the ſame before the ſaid Five and twentieth day of <hi>December,</hi> ſhall certifie into the <hi>Guildhal</hi> of the City of <hi>London,</hi> unto the Treaſurers a<g ref="char:EOLhyphen"/>foreſaid, together with the names of the re<g ref="char:EOLhyphen"/>ſpective Receivers General, who ſhall be ap<g ref="char:EOLhyphen"/>pointed to receive the ſame.</p>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:135509:5"/>
+            <!-- PDF PAGE 89 -->
+            <pb n="7" facs="tcp:135509:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 89 -->
+            <head>An Act for the ſpeedy raiſing of Seventy thouſand pounds for the preſent ſupply of His Majeſty.</head>
+            <p>WHereas in the abſence of His Ma<g ref="char:EOLhyphen"/>jeſty an Ordinance of both Houſes of Parliament was made, entituled, <hi>An Ordinance of the Lords and Commons for an Aſſeſſment of Se<g ref="char:EOLhyphen"/>venty thouſand pounds by the Moneth upon Eng<g ref="char:EOLhyphen"/>land for Three Moneths, for the ſupply of the pre<g ref="char:EOLhyphen"/>ſent occaſions of the Kings Majeſty, and for and to<g ref="char:EOLhyphen"/>wards the ſatisfaction of the Armies and Navies, to be continued for the defence of this Kingdom, and for other the urgent and neceſſary occaſions thereof.</hi> Which ſaid Aſſeſſment was to continue for threê moneths to be accompted from the Twen<g ref="char:EOLhyphen"/>ty fourth of <hi>June,</hi> One thouſand ſix hundred and ſixty. And whereas it was afterwards enacted by this preſent Parliament, That all and every of the Clauſes, Powers, and Pro<g ref="char:EOLhyphen"/>viſoes in the ſaid Ordinance mentioned, ſhould be put in full execution. We your Majeſties Loyal and Obedient Subjects, the Commons in Parliament aſſembled, taking notice of Your Majeſties urgent occaſions, whileſt Your Majeſties Revenue ſtands unſetled, and Your juſt Rights and Prerogatives in point of Te<g ref="char:EOLhyphen"/>nures, and the uſe of the Court of Wards are for borne, and withal acknowledging Your Majeſties great goodneſs to us Your Subjects in the many gracious Acts paſſed, and other the Meſſages received this preſent Parliament, Do pray Your moſt Excellent Majeſty to accept
+<pb n="8" facs="tcp:135509:6"/>
+               <!-- PDF PAGE 90 -->this our preſent Grant of Seventy thouſand pounds to be raiſed and levied in the manner following.</p>
+            <p>And that it may be Enacted, and be it En<g ref="char:EOLhyphen"/>acted by Your moſt Excellent Majeſty, by and with the advice and conſent of the Lords and Commons in Parliament aſſembled, That the ſum of Threéſcore and ten thouſand pounds for One moneth onely, beginning from the Twenty ninth of <hi>September</hi> One thouſand ſix hundred and ſixty, ſhall be aſſeſſed, taxed, col<g ref="char:EOLhyphen"/>lected, levied and paid in the ſeveral Counties, Cities, Boroughs, Towns, and places with<g ref="char:EOLhyphen"/>in <hi>England</hi> and <hi>Wales,</hi> and Town of <hi>Berwick upon Twede,</hi> according to the ſeveral Rates, Rules and Proportions, and in ſuch manner and form, and by the ſame Commiſsioners (other then ſuch as are diſabled by the Act of General Pardon, Indempnity and Oblivion) as in and by the ſame recited Ordinance are ſet down, nominated, limited and appointed. Which Commiſsioners ſhall meêt on or before the Fifth day of <hi>October</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred and ſixty, and are hereby enabled to uſe and execute all and every the Powers and Au<g ref="char:EOLhyphen"/>thorities, as in and by the ſaid Ordinance and Act are mentioned and expreſſed, as fully and amply as if the ſame Rates, Rules, Propor<g ref="char:EOLhyphen"/>tions, Powers and Authorities had beén parti<g ref="char:EOLhyphen"/>cularly inſerted in this preſent Act.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That all and every the Sums of Money charged by this Act upon the ſeveral Counties, Cities, Towns, Boroughs and pla<g ref="char:EOLhyphen"/>ces aforeſaid, ſhall be levied and raifed and paid-into His Majeſties Receipt of the Exche<g ref="char:EOLhyphen"/>quer,
+<pb n="9" facs="tcp:135509:6"/>
+               <!-- PDF PAGE 90 -->upon or before the Firſt day of <hi>November</hi> One thouſand ſix hundred and ſixty, by the ſe<g ref="char:EOLhyphen"/>veral Receivers-General that ſhall be appoint<g ref="char:EOLhyphen"/>ed by the ſaid Commiſsioners; and the ſaid Commiſsioners or any two or more of them, in their reſpective Counties, Cities, Boroughs, Towns, and places within <hi>England</hi> and <hi>Wales,</hi> and the Town of <hi>Berwick upon Twede,</hi> are hereby ordered and required to Sign and Seal a "duplicate" EXTENT="1 page" of the ſaid Aſſeſſments, and the ſame before the ſame Firſt of <hi>November,</hi> to cer<g ref="char:EOLhyphen"/>tifie into His Majeſties Court of Exchequer at <hi>Weſtminſter,</hi> together with the names of the reſpective Receivers-General who ſhall be ap<g ref="char:EOLhyphen"/>pointed to receive the ſame.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Bill,</hi> Printer to the KING'S moſt Excellent MAJESTY. 1660.</p>
+            <p>At the KING'S Printing-houſe in Black-Fryers.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
